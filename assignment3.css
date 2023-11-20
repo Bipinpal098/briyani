@@ -1,0 +1,11 @@
+body{
+    background-image: url(./images/khattaFlow.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    background-position: center;
+}
+#py{
+    color:brown;
+}
